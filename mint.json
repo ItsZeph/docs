@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "OSRP Staff Hub",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/Okla_State_Roleplay_Logo.png",
+    "light": "/logo/Okla_State_Roleplay_Logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
