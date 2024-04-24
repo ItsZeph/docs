@@ -53,9 +53,9 @@
       ]
     },
     {
-      "group": "introduction",
+      "group": "information",
       "pages": [
-        "introduction/introduction"
+        "information/introduction"
       ]
     }
   ],
