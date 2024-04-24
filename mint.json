@@ -47,15 +47,13 @@
   ],
   "navigation": [
     {
-      "group": "test",
-      "pages": [
-        "test/test"
-      ]
-    },
-    {
       "group": "Information",
       "pages": [
-        "Information/Introduction"
+        "Information/Introduction",
+        "Information/Code of Conduct",
+        "Information/Leave of Absences",
+        "Information/Staff Quota",
+        "Information/Vehicle Regulations"
       ]
     }
   ],
