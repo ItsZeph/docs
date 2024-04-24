@@ -50,9 +50,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "test",
-        "quickstart",
-        "development"
+        "test"
       ]
     },
     {
