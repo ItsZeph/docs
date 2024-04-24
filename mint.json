@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "OSRP Staff Hub",
   "logo": {
-    "dark": "/logo/Okla_State_Roleplay_Logo.png",
-    "light": "/logo/Okla_State_Roleplay_Logo.png"
+    "dark": "/logo/okla_state_roleplay_logo.png",
+    "light": "/logo/okla_state_roleplay_logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
