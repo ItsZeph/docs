@@ -43,7 +43,12 @@
       "name": "Community X",
       "icon": "x-twitter",
       "url": "https://twitter.com/oklahomasrp"
-    }
+    },
+    {
+      "name": "Community YT",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@OklahomaSRP"
+    },
   ],
   "navigation": [
     {
