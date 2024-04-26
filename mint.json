@@ -26,25 +26,27 @@
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
-
   ],
   "anchors": [
     {
-      "name": "Community TikTok",
-      "icon": "tiktok",
-      "url": "https://tiktok.com/@oklahomaprc?lang=en"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/5e3KK2kd7U"
+      "name": "Documentation",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community YouTube",
-      "icon": "youtube",
-      "url": "https://youtube.com/@OklahomaSRP"
+      "name": "Community",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
     },
     {
-      "name": "Community X",
-      "icon": "x-twitter",
-      "url": "https://twitter.com/oklahomasrp"
-    },
-    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    }
+  ]
   ],
   "navigation": [
     {
