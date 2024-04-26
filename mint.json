@@ -54,6 +54,12 @@
         "Information/Staff Quota",
         "Information/Vehicle Regulations"
       ]
+    },
+    {
+      "group": "OSRP Guidance",
+      "pages": [
+        "OSRP Guidance/STS Guide"
+      ]
     }
   ],
   "footerSocials": {
