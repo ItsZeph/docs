@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "OSRP Staff Hub",
   "logo": {
-    "dark": "https://cdn.discordapp.com/attachments/1022185451655811174/1234966125675155557/osrplogo.png?ex=6632a754&is=663155d4&hm=c997a2e60d0bbb5ef3460f37f2b4525ef9f8653b3e5590d9b62b447957e7684c&",
-    "light": "https://cdn.discordapp.com/attachments/1022185451655811174/1234966125675155557/osrplogo.png?ex=6632a754&is=663155d4&hm=c997a2e60d0bbb5ef3460f37f2b4525ef9f8653b3e5590d9b62b447957e7684c&"
+    "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/osrplogo_u1kyjt.png",
+    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/osrplogo_u1kyjt.png"
   },
   "favicon": "/osrplogo.png",
   "colors": {
