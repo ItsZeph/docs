@@ -42,7 +42,12 @@
       "name": "TikTok",
       "icon": "tiktok",
       "url": "https://tiktok.com/@oklahomaprc"
-    }
+    },
+    {
+      "name": "Testing",
+      "icon": "youtube",
+      "url": "https://oklarp.com"
+    },
   ],
   "navigation": [
     {
