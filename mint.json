@@ -7,12 +7,12 @@
   },
   "favicon": "/osrplogo.png",
   "colors": {
-    "primary": "#57C7F8",
-    "light": "#57C7F8",
-    "dark": "#57C7F8",
+    "primary": "#C595C9",
+    "light": "#C699BA",
+    "dark": "#192F43",
     "anchors": {
-      "from": "#57C7F8",
-      "to": "#57C7F8"
+      "from": "#C595C9",
+      "to": "#336A9C"
     }
   },
   "topbarLinks": [
