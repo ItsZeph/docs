@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "Support Team",
-      "url": "support"
+      "url": "support-team"
     }
   ],
   "anchors": [
@@ -75,6 +75,12 @@
       "group": "Miscellaneous",
       "pages": [
         "Miscellaneous/Policies"
+      ]
+    },
+    {
+      "group": "Support Team",
+      "pages": [
+        "Support Team/test"
       ]
     }
   ],
