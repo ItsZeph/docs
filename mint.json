@@ -26,6 +26,10 @@
     "url": "https://dizzy.osrp.site"
   },
   "tabs": [
+    {
+      "name": "Support Team",
+      "url": "support"
+    }
   ],
   "anchors": [
     {
