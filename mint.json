@@ -64,8 +64,13 @@
     {
       "group": "OSRP Guidance",
       "pages": [
-        "OSRP Guidance/STS Guide",
-        "OSRP Guidance/Policies"
+        "OSRP Guidance/STS Guide"
+      ]
+    },
+    {
+      "group": "Miscellaneous",
+      "pages": [
+        "Miscellaneous/Policies"
       ]
     }
   ],
