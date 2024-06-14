@@ -1,3 +1,4 @@
+
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "OSRP Staff Hub",
@@ -72,7 +73,7 @@
       "pages": [
         "Miscellaneous/Policies"
       ]
-    },
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/OklahomaSRP"
