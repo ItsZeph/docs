@@ -65,14 +65,14 @@
     {
       "group": "OSRP Guidance",
       "pages": [
-        "OSRP Guidance/STS Guide"
+        "OSRP Guidance/STS Guide",
+        "OSRP Guidance/ERM Guide"
       ]
     },
     {
       "group": "Miscellaneous",
       "pages": [
-        "Miscellaneous/Policies",
-        "Miscellaneous/ERM Guide"
+        "Miscellaneous/Policies"
       ]
     }
   ],
