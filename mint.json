@@ -3,17 +3,17 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "OSRP Staff Hub",
   "logo": {
-    "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/osrplogo_u1kyjt.png",
-    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/osrplogo_u1kyjt.png"
+    "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/v1723044383/Golden_Gate_Roleplay_1_fbkizv.png",
+    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/v1723044383/Golden_Gate_Roleplay_1_fbkizv.png"
   },
-  "favicon": "/osrplogo.png",
+  "favicon": "https://res.cloudinary.com/dmgrk6mbc/image/upload/v1723044383/Golden_Gate_Roleplay_1_fbkizv.png",
   "colors": {
-    "primary": "#929DD9",
-    "light": "#C699BA",
-    "dark": "#192F43",
+    "primary": "#fd7f05",
+    "light": "#fd7f05",
+    "dark": "#fd7f05",
     "anchors": {
-      "from": "#C595C9",
-      "to": "#336A9C"
+      "from": "#fd7f05",
+      "to": "#fb9309"
     }
   },
   "topbarLinks": [
