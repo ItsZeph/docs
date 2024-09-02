@@ -18,13 +18,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Email Executives",
-      "url": "mailto:exec@osrp.site"
+      "name": "Email Staffing Coordinator",
+      "url": "mailto:zeph@goldengateroleplay.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Discord",
-    "url": "https://dizzy.osrp.site"
+    "url": "https://discord.gg/ggrp"
   },
   "tabs": [
   ],
@@ -32,22 +32,22 @@
     {
       "name": "YouTube",
       "icon": "youtube",
-      "url": "https://youtube.com/@OklahomaSRP"
+      "url": "https://youtube.com/@GoldenGateRP"
     },
     {
       "name": "X",
       "icon": "x-twitter",
-      "url": "https://twitter.com/OklahomaSRP"
+      "url": "https://twitter.com/gateroleplay"
     },
     {
       "name": "TikTok",
       "icon": "tiktok",
-      "url": "https://tiktok.com/@oklahomaprc"
+      "url": "https://tiktok.com/@goldengateprc"
     },
     {
       "name": "Website",
       "icon": "globe",
-      "url": "https://oklarp.com"
+      "url": "https://goldengateroleplay.com"
     }
   ],
   "navigation": [
@@ -77,6 +77,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/OklahomaSRP"
+    "x": "https://x.com/gateroleplay"
   }
 }
