@@ -52,14 +52,14 @@
   ],
   "navigation": [
     {
-      "group": "Staff Information",
+      "group": "Information",
       "pages": [
-        "Staff Information/Introduction",
-        "Staff Information/Code of Conduct",
-        "Staff Information/Leave of Absences",
-        "Staff Information/Staff Quota",
-        "Staff Information/Vehicle Regulations",
-        "Staff Information/Asset Policy"
+        "Information/Introduction",
+        "Information/Code of Conduct",
+        "Information/Leave of Absences",
+        "Information/Staff Quota",
+        "Information/Vehicle Regulations",
+        "Information/Asset Policy"
       ]
     },
     {
