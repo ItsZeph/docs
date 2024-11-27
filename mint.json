@@ -54,17 +54,17 @@
     {
       "group": "Information",
       "pages": ["Introduction", "Code of Conduct", "Leave of Absences", "Staff Quota", "Vehicle Regulations", "Asset Policy"]
-      ]
+      ],
     },
     {
       "group": "GoldenGate Guidance",
       "pages": ["GoldenGate Guidance/STS Guide", "GoldenGate Guidance/Melonly Guide"]
-      ]
+      ],
     },
     {
       "group": "Miscellaneous",
       "pages": ["Miscellaneous/Policies", "Miscellaneous/In Game Messages"]
-      ]
+      ],
     }
   ],
   "footerSocials": {
