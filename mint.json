@@ -52,16 +52,16 @@
   ],
   "navigation": [
     {
-      "group": "Information",
-      "pages": ["Information/Introduction", "Information/Code of Conduct", "Information/Leave of Absences", "Information/Staff Quota", "Information/Vehicle Regulations", "Information/Asset Policy"]
+      "group": "Staff Information",
+      "pages": ["information/introduction", "information/code-of-conduct", "information/leave-of-absences", "information/staff-quota", "information/vehicle-regulations", "information/asset-policy"]
     },
     {
-      "group": "GoldenGate Guidance",
-      "pages": ["GoldenGate Guidance/STS Guide", "GoldenGate Guidance/Melonly Guide"]
+      "group": "Golden Gate Guidance",
+      "pages": ["goldengate-guidance/sts-guide", "goldengate-guidance/melonly-guide"]
     },
     {
       "group": "Miscellaneous",
-      "pages": ["Miscellaneous/Policies", "Miscellaneous/In Game Messages"]
+      "pages": ["miscellaneous/policies", "miscellaneous/in-game-messages"]
     }
   ],
   "footerSocials": {
