@@ -53,7 +53,7 @@
   "navigation": [
     {
       "group": "Information",
-      "pages": ["Introduction", "Code of Conduct", "Leave of Absences", "Staff Quota", "Vehicle Regulations", "Asset Policy"]
+      "pages": ["Information/Introduction", "Information/Code of Conduct", "Information/Leave of Absences", "Information/Staff Quota", "Information/Vehicle Regulations", "Information/Asset Policy"]
     },
     {
       "group": "GoldenGate Guidance",
