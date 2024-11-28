@@ -1,4 +1,3 @@
-
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "GoldenGate Staff Hub",
@@ -61,7 +60,7 @@
     },
     {
       "group": "Miscellaneous",
-      "pages": ["miscellaneous/policies", "miscellaneous/in-game-messages"]
+      "pages": ["miscellaneous/policies", "miscellaneous/in-game-messages", "centre-changelog"]
     }
   ],
   "footerSocials": {
