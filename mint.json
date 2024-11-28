@@ -8,8 +8,8 @@
   "favicon": "/mapleontario.png",
   "colors": {
     "primary": "#d61b1e",
-    "light": "#981315",
-    "dark": "#981315",
+    "light": "#d61b1e",
+    "dark": "#d61b1e",
     "anchors": {
       "from": "#981315",
       "to": "#981315"
