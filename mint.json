@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "GoldenGate Staff Hub",
+  "name": "Maple Ontario Staff Centre",
   "logo": {
-    "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/v1732751093/Untitled_design_82_znkb4k.png",
-    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/v1732751093/Untitled_design_82_znkb4k.png"
+    "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_6_nlcc1n.png",
+    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/OOP_x8i0j1.png"
   },
-  "favicon": "/goldengate.png",
+  "favicon": "/mapleontario.png",
   "colors": {
-    "primary": "#fd7f05",
-    "light": "#fd7f05",
-    "dark": "#fd7f05",
+    "primary": "#981315",
+    "light": "#981315",
+    "dark": "#981315",
     "anchors": {
-      "from": "#fd7f05",
-      "to": "#FD7F05"
+      "from": "#981315",
+      "to": "#981315"
     }
   },
   "topbarLinks": [
@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Discord",
-    "url": "https://discord.gg/ggrp"
+    "url": "https://discord.gg/morp"
   },
   "tabs": [
   ],
@@ -55,7 +55,7 @@
       "pages": ["information/introduction", "information/code-of-conduct", "information/leave-of-absences", "information/staff-quota", "information/vehicle-regulations", "information/asset-policy"]
     },
     {
-      "group": "Golden Gate Guidance",
+      "group": "Maple Ontario Guidance",
       "pages": ["goldengate-guidance/sts-guide", "goldengate-guidance/melonly-guide"]
     },
     {
