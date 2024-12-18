@@ -52,7 +52,7 @@
   "navigation": [
     {
       "group": "Staff Information",
-      "pages": ["information/introduction", "information/code-of-conduct", "information/leave-of-absences", "information/staff-quota", "information/vehicle-regulations", "information/asset-policy"]
+      "pages": ["information/introduction", "information/code-of-conduct", "information/leave-of-absences", "information/staff-quota", "information/vehicle-regulations", "information/asset-policy", "information/chain-of-command"]
     },
     {
       "group": "Maple Ontario Guidance",
