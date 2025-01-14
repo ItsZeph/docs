@@ -28,31 +28,7 @@
   "tabs": [
   ],
   "anchors": [
-    {
-      "name": "YouTube",
-      "icon": "youtube",
-      "url": "https://youtube.com/@GoldenGateRP"
-    },
-    {
-      "name": "X",
-      "icon": "x-twitter",
-      "url": "https://twitter.com/gateroleplay"
-    },
-    {
-      "name": "TikTok",
-      "icon": "tiktok",
-      "url": "https://tiktok.com/@goldengateprc"
-    },
-    {
-      "name": "Game Moderation Handbook",
-      "icon": "gamepad",
-      "url": "https://maple-ontario-roleplay.gitbook.io/maple-ontario-in-game-moderation-handbook"
-    },
-    {
-      "name": "Website",
-      "icon": "globe",
-      "url": "https://goldengateroleplay.com"
-    }
+
   ],
   "navigation": [
     {
